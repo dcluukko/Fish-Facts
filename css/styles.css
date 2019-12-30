@@ -8,6 +8,18 @@ h2{
     text-align: center;
 }
 body{
+    margin: 12px;
+    border: 2px solid green;
+    padding: 4px;
+
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.swell  {
+    background-color: aquamarine;
+}
+
+.list {
+    background-color: cadetblue;
+   
 }
